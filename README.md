@@ -42,3 +42,8 @@ Interactive tooltips and dashboard layout design
 -Key Insight
 
 Pricing and revenue in Istanbul’s Airbnb market are primarily driven by location and room type, while host quality (Superhost status) contributes to marginally higher guest satisfaction. Increasing capacity boosts revenue only up to a certain point, after which returns decline.
+
+## Dashboard Preview
+
+![Dashboard Preview](Dashboard Preview.png)
+
