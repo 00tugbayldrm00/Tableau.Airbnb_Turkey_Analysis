@@ -47,3 +47,4 @@ Pricing and revenue in Istanbul’s Airbnb market are primarily driven by locati
 
 ![Dashboard Preview](Dashboard%20Preview.png)
 
+
